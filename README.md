@@ -54,7 +54,7 @@ weather-app/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/weather-app.git
+git clone https://github.com/Vinims30/Weather-app.git
 cd weather-app
 ```
 
